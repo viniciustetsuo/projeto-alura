@@ -23,3 +23,6 @@ main img {
     height: 80px;
     object-fit: cover;
 }
+article {
+    display: flex;
+}
